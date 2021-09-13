@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @simmoc
-- 👀 I’m interested in PHP
-
 
 <!--
 **Simmoc/Simmoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +21,7 @@
 
 ### Hi 2021 👋
 
-#### I'm a Backend DevOps Engineer working in China.
+#### I'm Simmoc , A Backend DevOps Engineer working in China.
 
 ##### BIO
 
