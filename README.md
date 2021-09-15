@@ -25,10 +25,10 @@
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`, `.lua`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
+- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`
+- 🌍&nbsp;&nbsp; I'm mostly active within the **Simmoc's blog**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
+- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **thinkphp**, **development**, **devops**, **kubenetes**, **docker**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
