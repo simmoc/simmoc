@@ -19,13 +19,13 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Simmoc&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/simmoc/github-readme-stats)
 -->
 
-### Hi 2021 👋
+### Hi 2022 👋
 
 #### I'm Simmoc , A Backend DevOps Engineer working in China.
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.sh`, `.php`, `.js`, `.html`, `.css`
+- ⚙️&nbsp;&nbsp; I use daily:  `.php`, `.js`, `.sh`,`.html`, `.css`
 - 🌍&nbsp;&nbsp; I'm mostly active within the **Simmoc's blog**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **thinkphp**, **development**, **devops**, **kubenetes**, **docker**
