@@ -19,16 +19,16 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Simmoc&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/simmoc/github-readme-stats)
 -->
 
-### Hi 2023 👋
+### Hi 2024 👋
 
 #### I'm Simmoc , A Backend DevOps Engineer working in China.
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily:  `.php`, `.go` ,`.js`, `.sh`,`.html`, `.css`
+- ⚙️&nbsp;&nbsp; I use daily:  `.php`, `.go` ,`.js`, `.sh`,`.html`, `.css`, `.vue`
 - 🌍&nbsp;&nbsp; I'm mostly active within the [**Simmoc's blog**](https://blog.simmoc.cn)
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **thinkphp**, **development**, **devops**, **kubenetes**, **docker**
+- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **thinkphp**, **vue.js**, **nuxt.js**, **development**, **devops**, **kubenetes**, **docker**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 
 
